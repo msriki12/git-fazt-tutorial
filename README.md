@@ -34,7 +34,6 @@ _You **can also** combine them_
 
 ![Penguin](./assets/linux-155549_1280.png)
 
-* <a href="https://www.vives.be/" target="_blank">Link to external VIVES website but in a blank tab</a>
 * [Link to external VIVES website](https://www.vives.be)
 * [Relative Link to VuePress](../vuepress)
 * [Anchor Link to Blockquote](#blockquote)
