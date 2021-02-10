@@ -51,9 +51,13 @@ for (int x = 0; x < 100; x++) {
 }
 ```
 
+::: Output
+
 > Chuck Norris can divide by zero.
 >
 > Source: Top 25 Chuck Norris Jokes by LiveAboutDotCom
+
+:::
 
 Before the horizontal rule
 
