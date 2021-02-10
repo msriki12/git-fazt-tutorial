@@ -32,4 +32,4 @@ _You **can also** combine them_
     * Indented second
 * Fourth
 
-![Penguin](./assets/git-logo.jpg)
+![Penguin](./assets/linux-155549_1280.png)
