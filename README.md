@@ -17,3 +17,10 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can also** combine them_
+
+1. First
+1. Second
+1. Third
+    1. Indented first
+    1. Indented second
+1. Fourth
