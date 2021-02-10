@@ -62,7 +62,7 @@ After the horizontal rule
 Colons can be used to align columns.
 
 | Tables | are | easy  |
-| ------------- |:-------------:| -----:|
+| --- |:---:| ---:|
 | Left aligned | Centered |  Right aligned |
 | Can also contain `inline code` | `E = m * c * c` | **or bold text** |
 | Last Row | Last Row | Last Row |
