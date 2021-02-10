@@ -31,3 +31,5 @@ _You **can also** combine them_
     * Indented first
     * Indented second
 * Fourth
+
+![Penguin](./assets/git-logo.jpg)
