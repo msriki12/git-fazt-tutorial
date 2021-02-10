@@ -66,3 +66,24 @@ Colons can be used to align columns.
 | Left aligned | Centered |  Right aligned |
 | Can also contain `inline code` | `E = m * c * c` | **or bold text** |
 | Last Row | Last Row | Last Row |
+
+::: tip
+This is a tip
+
+```cpp
+// You can even add code inside a container
+while (true) {
+  cout << "Markdown is nice!" << endl;
+}
+```
+:::
+
+::: warning
+This is a warning with an image
+
+![Warning image](./assets/warning.png)
+:::
+
+::: danger That is my middle name
+This is a dangerous warning with unicode emoji 🚨
+:::
