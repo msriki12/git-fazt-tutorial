@@ -48,3 +48,7 @@ for (int x = 0; x < 100; x++) {
   cout << "There is no coding like C++ coding." << endl;
 }
 ```
+
+> Chuck Norris can divide by zero.
+>
+> Source: Top 25 Chuck Norris Jokes by LiveAboutDotCom
