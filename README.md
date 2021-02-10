@@ -38,3 +38,13 @@ _You **can also** combine them_
 * [Relative Link to VuePress](../vuepress)
 * [Anchor Link to Blockquote](#blockquote)
 * [Anchored to Creating VuePress Project](../vuepress/#creating-a-new-vuepress-course)
+
+So for example to place a piece of `inline code`, you need single backticks.
+
+While actual code blocks need triple backticks:
+
+```cpp
+for (int x = 0; x < 100; x++) {
+  cout << "There is no coding like C++ coding." << endl;
+}
+```
