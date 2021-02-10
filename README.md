@@ -24,3 +24,10 @@ _You **can also** combine them_
     1. Indented first
     1. Indented second
 1. Fourth
+
+* First
+* Second
+* Third
+    * Indented first
+    * Indented second
+* Fourth
